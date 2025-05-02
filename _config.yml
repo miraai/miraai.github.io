@@ -6,7 +6,7 @@ repository: miraai/miraai.github.io
 version: 2
 
 # Personal info
-name: Ajla Dzekovic
+name: Ajla Mićić
 title: Senior Infrastructure Engineer
 email: dzekovic.ajla@protonmail.com
 # email_title: Email (Email title override)
@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   <h2><img src="https://media.baamboozle.com/uploads/images/749539/1655077376_132190_gif-url.gif" width="50"> Beep, boop </h2>
 
   ```hcl
-  🔭 Infrastructure Engineer at Rasa
+  🔭 Staff Infrastructure Engineer at Rasa
   ⚡ Live and breathe infrastructure as code
   🌱 Working on CKA
   🌒 Learning more about Open Source
@@ -99,7 +99,7 @@ content:
     content:
       - layout: left
         title: Rasa
-        sub_title: Senior Infrastructure Engineer
+        sub_title: Staff Infrastructure Engineer
         caption: 2022 - Present
         link: rasa.com
         # quote: >
